@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_More Options</name>
+   <tag></tag>
+   <elementGuidId>24479ca5-f48a-412c-b14f-d9d62fc75264</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='popular-items']/div/div/div[5]/a[2]/ul/li/button)[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1e22ea2a-2a95-4b91-bf9a-5b3af2869061</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>add_cart</value>
+      <webElementGuid>078000e3-ab5f-4730-a258-25fc8d338fe1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>More Options</value>
+      <webElementGuid>bee36d77-5034-4427-8fc0-d9237a23f35d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;popular-product1&quot;)/div[@id=&quot;popular-items&quot;]/div[@class=&quot;slick-list draggable&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;product-box slick-slide slick-active&quot;]/a[2]/ul[1]/li[1]/button[@class=&quot;add_cart&quot;]</value>
+      <webElementGuid>09fb6a11-115b-4e3c-82de-2c3f670847c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='popular-items']/div/div/div[5]/a[2]/ul/li/button)[2]</value>
+      <webElementGuid>0642b444-e729-43a3-8d88-5a122974c383</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kawan Flakey Paratha'])[1]/following::button[1]</value>
+      <webElementGuid>53ea3978-13cc-4cc4-9977-faa60e7dad7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More Options'])[5]/following::button[1]</value>
+      <webElementGuid>0aab6962-c1b4-4d00-8cee-4ef2b20d0f39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Discover Our Latest &amp; Greatest'])[1]/preceding::button[1]</value>
+      <webElementGuid>121d5915-de03-45df-a137-9d258b6943e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[5]/div/div/div/div/div/div[5]/a[2]/ul/li/button</value>
+      <webElementGuid>d5580cf7-457d-4a6d-a337-fe00e13ab238</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'More Options' or . = 'More Options')]</value>
+      <webElementGuid>bdbf4f9c-46ef-473f-b1f5-68fb7df882e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

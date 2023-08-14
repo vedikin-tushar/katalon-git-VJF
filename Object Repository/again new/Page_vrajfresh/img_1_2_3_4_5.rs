@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_1_2_3_4_5</name>
+   <tag></tag>
+   <elementGuidId>7e0f887d-2a43-4f02-bf1b-311540150b24</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[contains(@src,'https://www.vrajfresh.com/assets/images/logo.png')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>b2d9fa35-f2a0-4c37-9e4f-a2ff85a77acb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://www.vrajfresh.com/assets/images/logo.png</value>
+      <webElementGuid>5b50d5df-549c-4721-99ba-5f134afb3494</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/header[1]/div[@class=&quot;container container-flex header&quot;]/div[@class=&quot;logo&quot;]/a[1]/img[1]</value>
+      <webElementGuid>d36f3a9c-f658-4bc4-9931-f35ea367ab21</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://www.vrajfresh.com/assets/images/logo.png')]</value>
+      <webElementGuid>f5f6590b-4dd4-4fdd-8b13-fd59625d6a32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>ae2ee288-5a94-4e22-9f9e-7db81473e0f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://www.vrajfresh.com/assets/images/logo.png']</value>
+      <webElementGuid>21a8b68f-3c9d-456f-9df4-a92800509013</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

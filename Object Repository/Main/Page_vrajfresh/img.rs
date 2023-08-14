@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>2a2dec9f-e10a-4dd9-9e0e-2c8e25e2b9de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.vraj-login > a > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[contains(@src,'https://dev.thcitsolutions.com/vrajfresh/front/assets/images/user-icon.png')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>a1834215-6092-49a0-b310-9d9ff499d716</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://dev.thcitsolutions.com/vrajfresh/front/assets/images/user-icon.png</value>
+      <webElementGuid>a321d2a1-5f07-4d30-bd14-ba08f19e07bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/header[1]/div[@class=&quot;container container-flex header&quot;]/div[@class=&quot;my-account&quot;]/ul[1]/li[@class=&quot;vraj-login&quot;]/a[1]/img[1]</value>
+      <webElementGuid>ca9335cb-601e-4dc6-bd3a-3cb29c32f76f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://dev.thcitsolutions.com/vrajfresh/front/assets/images/user-icon.png')]</value>
+      <webElementGuid>bba41690-e29d-475a-8eb3-280fd69f25ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a/img</value>
+      <webElementGuid>39ba5df6-02e9-4f6f-8e6b-f3abe80db080</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://dev.thcitsolutions.com/vrajfresh/front/assets/images/user-icon.png']</value>
+      <webElementGuid>747007a2-5380-43d0-9ec9-799f84b3b19a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

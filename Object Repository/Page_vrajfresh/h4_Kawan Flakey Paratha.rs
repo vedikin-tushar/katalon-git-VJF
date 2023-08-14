@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Kawan Flakey Paratha</name>
+   <tag></tag>
+   <elementGuidId>afb09e67-6c12-484b-b917-238c240c55ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='category_product']/div[16]/div/a/h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>b35b66d2-4dac-4039-8004-c098e2e6b7cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kawan Flakey Paratha...</value>
+      <webElementGuid>b5d55a1a-f1c6-4566-b1fe-3362a85701ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;category_product&quot;)/div[@class=&quot;product-box&quot;]/div[1]/a[1]/h4[1]</value>
+      <webElementGuid>bf3db1ee-3dad-42b6-99a7-4ca154552994</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='category_product']/div[16]/div/a/h4</value>
+      <webElementGuid>f3fd95d2-8777-4015-b18e-23fbe2551bbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[15]/following::h4[1]</value>
+      <webElementGuid>5a8aa65f-8a9f-40a1-86e6-8e5954d1d108</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[15]/following::h4[1]</value>
+      <webElementGuid>405a4ca8-7c70-4a78-b7d6-0bdaf4fe740b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[16]/preceding::h4[1]</value>
+      <webElementGuid>e958382d-2a1c-4834-9810-347993847e9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[16]/preceding::h4[1]</value>
+      <webElementGuid>6d4fc172-b201-4083-aaf7-f89d382aef82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kawan Flakey Paratha...']/parent::*</value>
+      <webElementGuid>6755867e-1c61-4a51-a51a-34ec3020f5d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[16]/div/a/h4</value>
+      <webElementGuid>4de26835-33a4-4f54-827c-423ebddcc773</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'Kawan Flakey Paratha...' or . = 'Kawan Flakey Paratha...')]</value>
+      <webElementGuid>42ad1737-cb4d-4c18-9071-67425aa36734</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

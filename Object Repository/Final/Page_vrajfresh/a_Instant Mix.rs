@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Instant Mix</name>
+   <tag></tag>
+   <elementGuidId>4754fc16-8a9d-4a47-a7dc-540960085da6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='main-menu']/li/div/ul/li[18]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(18) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>29070a8f-e2fe-4aaf-957f-7b7b43d9e506</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://dev.thcitsolutions.com/vrajfresh/front/category/instant-mix</value>
+      <webElementGuid>f0174904-475c-4193-84b0-285761925a45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Instant Mix</value>
+      <webElementGuid>60137e66-94cc-45fd-9b50-5452fa5f3073</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-menu&quot;)/li[1]/div[@class=&quot;submenu&quot;]/ul[1]/li[18]/a[1]</value>
+      <webElementGuid>b83c5c91-1528-4e81-bb15-5b86cad3aa65</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='main-menu']/li/div/ul/li[18]/a</value>
+      <webElementGuid>b9a4510e-146d-4e00-82c0-3cdb72072bec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Instant Mix')]</value>
+      <webElementGuid>d208baa5-e119-40a2-be91-154c82d27564</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Snacks'])[1]/following::a[1]</value>
+      <webElementGuid>b4cbe500-768a-47ec-9731-f266d8fa60ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Oil &amp; Ghee'])[1]/following::a[2]</value>
+      <webElementGuid>c414dab2-ad63-4f2c-b76b-911be2343691</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dal &amp; Beans'])[1]/preceding::a[1]</value>
+      <webElementGuid>eacd55ee-56a7-4ab9-957e-286a12050496</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fresh Produce'])[1]/preceding::a[2]</value>
+      <webElementGuid>29131cac-c0e9-439f-bd49-585427cb2c2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Instant Mix']/parent::*</value>
+      <webElementGuid>45c6b656-31ec-4719-ab2f-60277ac932b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://dev.thcitsolutions.com/vrajfresh/front/category/instant-mix')]</value>
+      <webElementGuid>99c29b4e-767c-459c-978e-20377f7b13ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[18]/a</value>
+      <webElementGuid>34e116e6-8a52-4f73-8d22-9821fb6a0c69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://dev.thcitsolutions.com/vrajfresh/front/category/instant-mix' and (text() = 'Instant Mix' or . = 'Instant Mix')]</value>
+      <webElementGuid>6a231ecf-992f-439a-a400-e3fb0dcf466f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

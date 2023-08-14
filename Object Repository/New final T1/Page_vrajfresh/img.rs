@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>c9bd7dd6-f459-4e5d-8dc8-8d1653fc2337</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[contains(@src,'https://www.vrajfresh.com/assets/images/user-icon.png')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.vraj-login > a > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>fe63a24f-978b-412d-9dee-bd3194b61053</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://www.vrajfresh.com/assets/images/user-icon.png</value>
+      <webElementGuid>2d6f42f8-1ed8-4f15-bf27-c3ed46fdde5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/header[1]/div[@class=&quot;container container-flex header&quot;]/div[@class=&quot;my-account&quot;]/ul[1]/li[@class=&quot;vraj-login&quot;]/a[1]/img[1]</value>
+      <webElementGuid>10df3983-6914-4a33-b472-63395a79d7af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://www.vrajfresh.com/assets/images/user-icon.png')]</value>
+      <webElementGuid>768e0062-4dbb-4123-8814-844b61fc3381</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a/img</value>
+      <webElementGuid>0d54320f-5a11-44f5-9d1a-6c0876da7dfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://www.vrajfresh.com/assets/images/user-icon.png']</value>
+      <webElementGuid>5b2788c5-be90-420b-aa89-644956605849</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

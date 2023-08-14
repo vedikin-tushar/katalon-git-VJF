@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_1_2_3_4_5</name>
+   <tag></tag>
+   <elementGuidId>dfb722d8-70da-402a-b17e-d909a9da5885</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[contains(@src,'https://dev.thcitsolutions.com/vrajfresh/front/assets/images/cart-icon.png')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(2) > a > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>2e949258-4586-4518-b718-d7e6c4a3ad86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://dev.thcitsolutions.com/vrajfresh/front/assets/images/cart-icon.png</value>
+      <webElementGuid>448411dc-4f0b-41e2-ac62-e4a72358c69f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/header[1]/div[@class=&quot;container container-flex header&quot;]/div[@class=&quot;my-account&quot;]/ul[1]/li[2]/a[1]/img[1]</value>
+      <webElementGuid>ec90fa62-73e3-4694-ac7c-5386c7675938</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://dev.thcitsolutions.com/vrajfresh/front/assets/images/cart-icon.png')]</value>
+      <webElementGuid>da6153d7-6ecc-45e3-99e2-d35188eee547</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/img</value>
+      <webElementGuid>7432a9e6-4367-4210-b0f7-3ab59153a144</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://dev.thcitsolutions.com/vrajfresh/front/assets/images/cart-icon.png']</value>
+      <webElementGuid>ed86cdb3-c047-41c4-8de1-f32c1928a803</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Same as Shipping Address (1)</name>
+   <tag></tag>
+   <elementGuidId>f6640f8f-bdf0-4835-ad66-f743e93add28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='autofill-btn']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#autofill-btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>73ab134a-7d37-4c41-8f31-e481043411a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>autofill-btn</value>
+      <webElementGuid>e99fa9b1-8590-49cb-ba07-6b904da92c69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Same as Shipping Address</value>
+      <webElementGuid>20042eb0-e3f9-4a77-8cf9-db59d95a2de5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;autofill-btn&quot;)</value>
+      <webElementGuid>eb5f6465-a3da-469a-9173-10ca6a931d0b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='autofill-btn']</value>
+      <webElementGuid>8477b83b-d448-4eec-8082-2a78dd4f90aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='checkoutForm']/section/div/div/button</value>
+      <webElementGuid>a455bb53-aae4-4e6e-9ffc-b64ab2f7e6b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[9]/following::button[1]</value>
+      <webElementGuid>5e1b2254-9617-4202-b985-7e061b2e99f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BILLING INFO'])[1]/preceding::button[1]</value>
+      <webElementGuid>1a8dd3f4-db29-4874-85f4-7b4c4aa144d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Same as Shipping Address']/parent::*</value>
+      <webElementGuid>beb03f20-d9db-4d47-98ea-d9d1d5b26dfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/button</value>
+      <webElementGuid>bdb5fc33-defa-40fe-80fc-d0d5f6252ba3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'autofill-btn' and (text() = 'Same as Shipping Address' or . = 'Same as Shipping Address')]</value>
+      <webElementGuid>292677d2-9106-4ddf-824a-0b0ee10bd989</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

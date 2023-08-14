@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Order Status_fa fa-download</name>
+   <tag></tag>
+   <elementGuidId>dfff3701-8851-4c34-95b9-afa2b110dc38</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td > #2260 > i.fa.fa-download</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@id='2260']/i)[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>ca9181ce-8741-4a85-badd-bac6776c07d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-download</value>
+      <webElementGuid>6fec07c5-0dfd-4b4b-892b-e35aa7240607</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tblListData&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[1]/a[@id=&quot;2260&quot;]/i[@class=&quot;fa fa-download&quot;]</value>
+      <webElementGuid>70f6ba2b-4f1d-4261-bb84-63878e0693bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//a[@id='2260']/i)[3]</value>
+      <webElementGuid>84fa5fef-08bf-4d3c-9d89-cd7013b716a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/a/i</value>
+      <webElementGuid>b2e67d55-5cb6-497e-87a6-d4c33e046973</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

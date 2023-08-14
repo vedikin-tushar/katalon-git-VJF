@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Order Status_fa fa-pencil_1</name>
+   <tag></tag>
+   <elementGuidId>5cc1bf00-8956-4d0d-9247-7ef19be97ee3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-pencil</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='1138']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>02a6dd2d-1db1-4865-9443-05509a87732f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-pencil</value>
+      <webElementGuid>25b81f76-3249-495f-a3ae-09b949b0826a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tblListData&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[1]/div[@class=&quot;btn-group&quot;]/a[@id=&quot;1138&quot;]/i[@class=&quot;fa fa-pencil&quot;]</value>
+      <webElementGuid>dae59dd1-ac49-4925-92ef-236765e4054a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='1138']/i</value>
+      <webElementGuid>631f39ef-7029-4adc-86c8-870b5146d89f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a/i</value>
+      <webElementGuid>7740293e-14a7-445a-8448-bbf06177cbbd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

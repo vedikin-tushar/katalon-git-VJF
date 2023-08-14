@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_33.29</name>
+   <tag></tag>
+   <elementGuidId>53a11fb4-fd47-48b0-91bd-bfb87cf43b5f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#total_amount_final</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='total_amount_final']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>2da8846b-86bb-4ca7-a6a5-f8cf04852447</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>total_amount_final</value>
+      <webElementGuid>2e5dc0ce-8be7-4a8b-b2fd-3b0d41011d65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$
+            33.29         </value>
+      <webElementGuid>65ebd8f4-ff92-4658-9fec-8e003676faee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;total_amount_final&quot;)</value>
+      <webElementGuid>b0acff27-640f-438e-9bbd-b9da94905c6d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//label[@id='total_amount_final']</value>
+      <webElementGuid>271bc625-4e7e-4076-900c-534c85c4dc7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='banner_frm']/div/div[5]/label[2]</value>
+      <webElementGuid>328fa22c-7b46-4520-aa8e-c2e7a00c1d63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Amount :'])[1]/following::label[1]</value>
+      <webElementGuid>b1ade515-a129-476d-abbc-7a7052a34151</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No, please refund for unavailable items'])[1]/following::label[2]</value>
+      <webElementGuid>d2689965-291c-4dd0-8d09-47a6408ff117</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Products'])[1]/preceding::label[1]</value>
+      <webElementGuid>d08f1343-dbf4-4ac1-9f96-7de21ba606be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Name'])[1]/preceding::label[2]</value>
+      <webElementGuid>97b82a30-a875-40dc-9614-3f2af0fe62b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/label[2]</value>
+      <webElementGuid>e6051d08-ee21-420d-9202-ecbfc9335770</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@id = 'total_amount_final' and (text() = '$
+            33.29         ' or . = '$
+            33.29         ')]</value>
+      <webElementGuid>61163f1d-d290-41d1-93f4-25befa61bf21</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

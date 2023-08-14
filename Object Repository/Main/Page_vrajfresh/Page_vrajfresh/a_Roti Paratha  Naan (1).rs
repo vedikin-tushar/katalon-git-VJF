@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Roti Paratha  Naan (1)</name>
+   <tag></tag>
+   <elementGuidId>ab04f4f4-fff1-466f-8128-2aac430a34bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(3) > div.submenu > ul > li:nth-of-type(2) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='main-menu']/li[3]/div/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>bc1343b4-a406-4471-b8d9-e510e16f8d61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://dev.thcitsolutions.com/vrajfresh/front/category/roti-paratha--naan</value>
+      <webElementGuid>79cedc7b-b618-46b9-807f-c00f2f5b3e92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Roti Paratha &amp; Naan</value>
+      <webElementGuid>d99d9b49-76a0-4fec-ab72-e082e64de0ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-menu&quot;)/li[3]/div[@class=&quot;submenu&quot;]/ul[1]/li[2]/a[1]</value>
+      <webElementGuid>8bf15556-7923-40a0-aab2-c932279554bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='main-menu']/li[3]/div/ul/li[2]/a</value>
+      <webElementGuid>bc0a30c9-fd7f-4cd8-ab69-286098aefd42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Roti Paratha &amp; Naan')]</value>
+      <webElementGuid>fa2e2a5c-9e9b-4c59-8726-ff35a0161ddf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ice Cream'])[1]/following::a[1]</value>
+      <webElementGuid>5f9f2b8d-8087-46a4-9008-8cd583bc645e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Frozen'])[2]/following::a[2]</value>
+      <webElementGuid>846a3b10-5bb4-4815-9c38-266cc86cf972</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cut Vegetable'])[2]/preceding::a[1]</value>
+      <webElementGuid>c9b10164-592a-4823-8d2f-9ea864e8430e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Appetizer'])[1]/preceding::a[2]</value>
+      <webElementGuid>0effdefc-e094-45d4-adb6-bb5e01957579</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Roti Paratha &amp; Naan']/parent::*</value>
+      <webElementGuid>07594710-2ba0-4f65-8527-5a10841e610f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://dev.thcitsolutions.com/vrajfresh/front/category/roti-paratha--naan')]</value>
+      <webElementGuid>ec2a040c-66cf-4049-9b11-d2ef27b73187</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/ul/li[2]/a</value>
+      <webElementGuid>065e2e6c-42fb-4b33-b10f-c1380c2d1524</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://dev.thcitsolutions.com/vrajfresh/front/category/roti-paratha--naan' and (text() = 'Roti Paratha &amp; Naan' or . = 'Roti Paratha &amp; Naan')]</value>
+      <webElementGuid>7ef49e28-2a9c-403b-a8d4-caa45ff7076b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
