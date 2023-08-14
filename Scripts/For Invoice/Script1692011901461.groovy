@@ -44,3 +44,5 @@ WebUI.verifyElementText(findTestObject('Object Repository/For Invoice Admin/Page
 
 WebUI.verifyElementText(findTestObject('Object Repository/For Invoice Admin/Page_/td_13.29'), '$ 13.29')
 
+WebUI.delay(5)
+
