@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Live Admin VJF</name>
+   <name>1 Dev Front VJF</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>e31ed79d-cea6-491e-8218-c8536ec5f2d7</testCaseGuid>
+   <testCaseGuid>5093fbe1-17f1-4c72-b0fe-2567d07b0726</testCaseGuid>
 </TestCaseEntity>
